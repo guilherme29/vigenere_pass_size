@@ -1,36 +1,26 @@
 
-tcifrado = "xbamvmlbtqspfuslssmsaeehzsmgwsyuwkwqljgpmelckmpyebfmsfcjyyhspnfsqeqsweyidjsbstzslmriyimkejzssnspejuysfefnceqljgpmelckmpyebfyvidqwrmzlbkqiqmmwgesatisixtozykeyigywiwfacwinpfqiufffriqpolcippjlmsvpthcxmgphpiwtewlxiobbsrxlowesgtpmasqldvsyqldgphsabjyegznhmwmzeshyrebvcjvphmcwmlrmcippjlytiwbsqwixcdcmepbkqmqldglxinfmasqfnshyrebumrwejlsheapjcpixffrswophqihldvsgeobmkgsxpkcytpmgsvsprmcksgfjlsyofmkejzseykpzcsjqiyuwnswtuateeeosqippjwquyptwpiewjryvexowqwilogcsroffyxycbdkirefgnwildvsgsydgpvicbeasqwjkrewashpmedogbsqtoymrstuwytwldglxerfebswgplmwgzokrexzvkcuypnsgwyxbncdsatyyrllwsywiwfacwwpneymscjsyfwzmmrevlqabeqpolciresspeqpnumrxldlmgsxbubygznmkegzoncvwlegrmtzdskevlesqsrztkmegzsvmhycbfriiduwquylujmerztumvvpvtcqtpmgoyizewtiqztjcihtusptecbgqtvijemwufblpseypkniplqspxiobubylzvncegzsvmviwblgzexffrieptkytvzqgqxeafdmuyptwnirdbnyuypbkqmqtsayegzolcgicogcrxlolmrecfumrxlhwkhsdwgrswbvwlsvxbdkirefkcjekdglwxlugswibvwyjmybdmtwejffeexbamvmlbtqspfuslsqpswasvopsqvekfkkewsbtgxylmecrxpfkrewlmlcveptvczixtwyzsepkkepnmsqwmqjuyhsdpmnsvbvwqsgzokghicbvmwrfmgqihpqggwhpddyveopktpmopkmytzsisigzolyfmwjryhsdognevejvmivcbvmeenpftivdbeshsfphqhitygshinpfregebjmwglnspehltvyghffsniwlsvyibafjgrgtbhmwmejnyhsxbfbexzbfrivtpjyglzvhmvfpnumrwejlsmvfnshyrebvcjvphmcwmlnglsgzmgpetposqgsxfdcmxztkmgmlmaqxedfkreiiqwpmrnjsoyilqwqevofslihejuyeyeolggexpkrvemfemuypfkriqupymredqjvmqltwjimptdckmdmsrmzlttcqwpjisieywwjrenjgleppbgasresjgshzrmcegzolcgiybkdvirvwqmedogfsygfsasvopkbikzwwprezowklsfwweszpsfyrxptvcsyesgqtecuabswbvwlshzqkkewypxsrhzfsniwlsvywjlmallednslwedrmcereoamgsdusriqlegrehzogqpxtngqxixqgqhmkffbsuffalhiaffbirefecrxpegqvidvdrehztnymhtbdmkecnmgxsprmcewapdrmgltkckytesqrsdmlgqsdbfmwwzqspetcpkqikfjjrshztkyfixpkoyinbkmstduwllexbamvmlbtqspfusmhmddgkyhlswmtwqbjmuyptwktvpgwxibnfgbiwebdckmdmsryvlfecwqzbumqvpdsbewzvkcnerpncvrlsvgvitusnsvttkmwixbvkmvlpisizpngqtscfpcqtwpgnexcpvmwtlujcwelgapqecrmctvpgwpiyxhgtivypvcqetpjgeemtgjyxlegnwsfrmczixpkpymcjgbiwpthcveopsrirebjgrzpslcveeffbrgtbvczseplgphpfdcmxzswqhsatvlstdqgpuypfkriwdbtcrhzrmcswpvhyvxteglsklozytvpgwpiqfnskemzsayefdpdsxeophqhsbvwmhityspgsyeaamsybvmiwbvwpheptwyhmcfarezzusrmpyphqesdfdcmxzswqhiptisivobkjlidswqxegplyvixuajredggpewdvscwuffjbe"
+ciphered = "xbamvmlbtqspfuslssmsaeehzsmgwsyuwkwqljgpmelckmpyebfmsfcjyyhspnfsqeqsweyidjsbstzslmriyimkejzssnspejuysfefnceqljgpmelckmpyebfyvidqwrmzlbkqiqmmwgesatisixtozykeyigywiwfacwinpfqiufffriqpolcippjlmsvpthcxmgphpiwtewlxiobbsrxlowesgtpmasqldvsyqldgphsabjyegznhmwmzeshyrebvcjvphmcwmlrmcippjlytiwbsqwixcdcmepbkqmqldglxinfmasqfnshyrebumrwejlsheapjcpixffrswophqihldvsgeobmkgsxpkcytpmgsvsprmcksgfjlsyofmkejzseykpzcsjqiyuwnswtuateeeosqippjwquyptwpiewjryvexowqwilogcsroffyxycbdkirefgnwildvsgsydgpvicbeasqwjkrewashpmedogbsqtoymrstuwytwldglxerfebswgplmwgzokrexzvkcuypnsgwyxbncdsatyyrllwsywiwfacwwpneymscjsyfwzmmrevlqabeqpolciresspeqpnumrxldlmgsxbubygznmkegzoncvwlegrmtzdskevlesqsrztkmegzsvmhycbfriiduwquylujmerztumvvpvtcqtpmgoyizewtiqztjcihtusptecbgqtvijemwufblpseypkniplqspxiobubylzvncegzsvmviwblgzexffrieptkytvzqgqxeafdmuyptwnirdbnyuypbkqmqtsayegzolcgicogcrxlolmrecfumrxlhwkhsdwgrswbvwlsvxbdkirefkcjekdglwxlugswibvwyjmybdmtwejffeexbamvmlbtqspfuslsqpswasvopsqvekfkkewsbtgxylmecrxpfkrewlmlcveptvczixtwyzsepkkepnmsqwmqjuyhsdpmnsvbvwqsgzokghicbvmwrfmgqihpqggwhpddyveopktpmopkmytzsisigzolyfmwjryhsdognevejvmivcbvmeenpftivdbeshsfphqhitygshinpfregebjmwglnspehltvyghffsniwlsvyibafjgrgtbhmwmejnyhsxbfbexzbfrivtpjyglzvhmvfpnumrwejlsmvfnshyrebvcjvphmcwmlnglsgzmgpetposqgsxfdcmxztkmgmlmaqxedfkreiiqwpmrnjsoyilqwqevofslihejuyeyeolggexpkrvemfemuypfkriqupymredqjvmqltwjimptdckmdmsrmzlttcqwpjisieywwjrenjgleppbgasresjgshzrmcegzolcgiybkdvirvwqmedogfsygfsasvopkbikzwwprezowklsfwweszpsfyrxptvcsyesgqtecuabswbvwlshzqkkewypxsrhzfsniwlsvywjlmallednslwedrmcereoamgsdusriqlegrehzogqpxtngqxixqgqhmkffbsuffalhiaffbirefecrxpegqvidvdrehztnymhtbdmkecnmgxsprmcewapdrmgltkckytesqrsdmlgqsdbfmwwzqspetcpkqikfjjrshztkyfixpkoyinbkmstduwllexbamvmlbtqspfusmhmddgkyhlswmtwqbjmuyptwktvpgwxibnfgbiwebdckmdmsryvlfecwqzbumqvpdsbewzvkcnerpncvrlsvgvitusnsvttkmwixbvkmvlpisizpngqtscfpcqtwpgnexcpvmwtlujcwelgapqecrmctvpgwpiyxhgtivypvcqetpjgeemtgjyxlegnwsfrmczixpkpymcjgbiwpthcveopsrirebjgrzpslcveeffbrgtbvczseplgphpfdcmxzswqhsatvlstdqgpuypfkriwdbtcrhzrmcswpvhyvxteglsklozytvpgwpiqfnskemzsayefdpdsxeophqhsbvwmhityspgsyeaamsybvmiwbvwpheptwyhmcfarezzusrmpyphqesdfdcmxzswqhiptisivobkjlidswqxegplyvixuajredggpewdvscwuffjbe"
 
 MAX_SUBSTRING_SIZE = 5
 MIN_SUBSTRING_SIZE = 3
-MAX_FACTOR = 100  #max key size
+MAX_FACTOR = 30  #max key size
 
-text = "aaabbaabbaaaa"
-#       012345678910
 
 def main():
-    print(len(tcifrado))
-    #big_ls = get_substrings_all_shifts(tcifrado)
-    #for a in big_ls:
-    #    print(a)
-    #print(big_ls)
-    #ls = factorize(210)
-    #print(ls)
-    #prime_list = get_first_primes()
-    #print(prime_list)
-    get_pass_statistics(tcifrado)
+    get_pass_statistics(ciphered)
     
 
 def get_pass_statistics(ciphered):
-    print("shift X -> N repeated words")
+    print("factor X -> N words")
     big_ls = get_substrings_all_shifts(ciphered)
     substrings_factors = factorize_all(big_ls)
 
     all_factors = []
-    for i in range(2, MAX_FACTOR):
+    for i in range(2, MAX_FACTOR + 1):
         all_factors.append(i)
     
-    
+    statistics = []
+        
     maxi = 0
     max_prime = 0
     for a in all_factors:
@@ -38,12 +28,14 @@ def get_pass_statistics(ciphered):
         for b in substrings_factors:
             if(b == a):
                 k = k + 1
-                if(maxi < k):
-                    maxi = k
-                    max_prime = a
-        print(a, "->", k)
-    print("max:", max_prime, "------->", maxi, "words")
-    
+                
+        statistics.append((a, k))
+
+    sorted_by_second = sorted(statistics, key=lambda tup: tup[1], reverse=True)
+        
+    for (a, b) in sorted_by_second:
+        print(a, "->", b)
+        
 
 
 #returns all tuples (substring, spacing-in-between) for all substrings found repeated in the ciphered text
