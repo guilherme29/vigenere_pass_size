@@ -1,4 +1,4 @@
-# Vigenere pass size
+# Vigenére pass size
 
 A small and simple python script to get some statistics on what could be the size of the cipher password.
 
