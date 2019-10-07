@@ -6,7 +6,8 @@ This is more of a library sort of thing so you should call the get_pass_statisti
 ```Python
 get_pass_statistics()
 ```
-on a string of ciphered text.
+on a string of ciphered text. It should print out the factors that occur the most by order. One of the most popular factors should be the password length.
+
 
 I took some inspiration from the black chamber website, you can check it here: http://www.simonsingh.net/The_Black_Chamber/vigenere_cracking_tool.html
 
